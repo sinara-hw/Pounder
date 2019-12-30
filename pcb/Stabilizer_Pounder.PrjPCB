@@ -174,23 +174,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DBVRJFFL
 
 [Document9]
-DocumentPath=Mixer_coupler.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
 DocumentPath=Quad_DDS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=Stabilizer_Pounder.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=Stabilizer_Pounder.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=Stabilizer_Pounder.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -263,36 +246,55 @@ UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
-Variation1=Designator=R33|UniqueId=\ERXPYEOP|Kind=1|AlternatePart= 
-Variation2=Designator=R34|UniqueId=\AECFNDCN|Kind=1|AlternatePart= 
-Variation3=Designator=R47|UniqueId=\OKXLDUEH\CDOMJZHK|Kind=1|AlternatePart= 
-Variation4=Designator=R48|UniqueId=\OKXLDUEH\IDCLYGQU|Kind=1|AlternatePart= 
-Variation5=Designator=R49|UniqueId=\OKXLDUEH\PWNODUFD|Kind=1|AlternatePart= 
-Variation6=Designator=R50|UniqueId=\OKXLDUEH\HEFEBLVI|Kind=1|AlternatePart= 
+VariationCount=27
+Variation1=Designator=R33|UniqueId=\OKXLDUEH\YRWHJUPH|Kind=1|AlternatePart= 
+Variation2=Designator=R34|UniqueId=\QYXJBBTI\GQJCLITR|Kind=1|AlternatePart= 
+Variation3=Designator=R47|UniqueId=\WUMRPFCB|Kind=1|AlternatePart= 
+Variation4=Designator=R48|UniqueId=\SKOZDQIU|Kind=1|AlternatePart= 
+Variation5=Designator=R49|UniqueId=\QYXJBBTI\AVELWUCJ|Kind=1|AlternatePart= 
+Variation6=Designator=R50|UniqueId=\QYXJBBTI\JWXLURID|Kind=1|AlternatePart= 
 Variation7=Designator=R43|UniqueId=\NFHGSUUD\JMIEEQDX|Kind=1|AlternatePart= 
 Variation8=Designator=R44|UniqueId=\NFHGSUUD\WYNPOBIL|Kind=1|AlternatePart= 
+Variation9=Designator=L8A|UniqueId=\NYZVTTPJ\WBLVOJRP|Kind=1|AlternatePart= 
+Variation10=Designator=R9A|UniqueId=\NYZVTTPJ\KOAAEPBA|Kind=1|AlternatePart= 
+Variation11=Designator=R11B|UniqueId=\BDRFWSYD\WJGVZEXF|Kind=1|AlternatePart= 
+Variation12=Designator=R9B|UniqueId=\BDRFWSYD\KOAAEPBA|Kind=1|AlternatePart= 
+Variation13=Designator=R62A|UniqueId=\NYZVTTPJ\XSQKKGUI|Kind=1|AlternatePart= 
+Variation14=Designator=L8B|UniqueId=\BDRFWSYD\WBLVOJRP|Kind=1|AlternatePart= 
+Variation15=Designator=L9A|UniqueId=\NYZVTTPJ\ECXSPBAH|Kind=1|AlternatePart= 
+Variation16=Designator=L9B|UniqueId=\BDRFWSYD\ECXSPBAH|Kind=1|AlternatePart= 
+Variation17=Designator=R7B|UniqueId=\BDRFWSYD\KIOBNMVA|Kind=1|AlternatePart= 
+Variation18=Designator=R11A|UniqueId=\NYZVTTPJ\WJGVZEXF|Kind=1|AlternatePart= 
+Variation19=Designator=R62B|UniqueId=\BDRFWSYD\XSQKKGUI|Kind=1|AlternatePart= 
+Variation20=Designator=R63A|UniqueId=\NYZVTTPJ\QNGSSIJL|Kind=1|AlternatePart= 
+Variation21=Designator=C28A|UniqueId=\NYZVTTPJ\CRJHIKNY|Kind=1|AlternatePart= 
+Variation22=Designator=C27A|UniqueId=\NYZVTTPJ\YJOPNHTH|Kind=1|AlternatePart= 
+Variation23=Designator=C31A|UniqueId=\NYZVTTPJ\AFCSWPCJ|Kind=1|AlternatePart= 
+Variation24=Designator=R63B|UniqueId=\BDRFWSYD\QNGSSIJL|Kind=1|AlternatePart= 
+Variation25=Designator=C31B|UniqueId=\BDRFWSYD\AFCSWPCJ|Kind=1|AlternatePart= 
+Variation26=Designator=C28B|UniqueId=\BDRFWSYD\CRJHIKNY|Kind=1|AlternatePart= 
+Variation27=Designator=C27B|UniqueId=\BDRFWSYD\YJOPNHTH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjRevision
-Value=1.0
+Name=ProjAddress1
+Value=Department of Physics
 
 [Parameter2]
-Name=ProjOrganization
-Value=Ion Trapping Group
+Name=ProjAddress2
+Value=University of Oxford
 
 [Parameter3]
 Name=ProjAddress3
 Value=UK
 
 [Parameter4]
-Name=ProjAddress2
-Value=University of Oxford
+Name=ProjOrganization
+Value=Ion Trapping Group
 
 [Parameter5]
-Name=ProjAddress1
-Value=Department of Physics
+Name=ProjRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
