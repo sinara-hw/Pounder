@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IIYHRMOC
 
 [Document6]
-DocumentPath=Digital_Attenuator_Amp.SchDoc
+DocumentPath=Digital_Attenuator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -241,40 +241,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFAFJXOO
 
+[Document13]
+DocumentPath=..\panel\Panel_Pounder.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NUTPSQEY
+
+[Document14]
+DocumentPath=..\panel\Panel_Pounder.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=27
-Variation1=Designator=R33|UniqueId=\OKXLDUEH\YRWHJUPH|Kind=1|AlternatePart= 
-Variation2=Designator=R34|UniqueId=\QYXJBBTI\GQJCLITR|Kind=1|AlternatePart= 
-Variation3=Designator=R47|UniqueId=\WUMRPFCB|Kind=1|AlternatePart= 
-Variation4=Designator=R48|UniqueId=\SKOZDQIU|Kind=1|AlternatePart= 
-Variation5=Designator=R49|UniqueId=\QYXJBBTI\AVELWUCJ|Kind=1|AlternatePart= 
-Variation6=Designator=R50|UniqueId=\QYXJBBTI\JWXLURID|Kind=1|AlternatePart= 
-Variation7=Designator=R43|UniqueId=\NFHGSUUD\JMIEEQDX|Kind=1|AlternatePart= 
-Variation8=Designator=R44|UniqueId=\NFHGSUUD\WYNPOBIL|Kind=1|AlternatePart= 
-Variation9=Designator=L8A|UniqueId=\NYZVTTPJ\WBLVOJRP|Kind=1|AlternatePart= 
-Variation10=Designator=R9A|UniqueId=\NYZVTTPJ\KOAAEPBA|Kind=1|AlternatePart= 
-Variation11=Designator=R11B|UniqueId=\BDRFWSYD\WJGVZEXF|Kind=1|AlternatePart= 
-Variation12=Designator=R9B|UniqueId=\BDRFWSYD\KOAAEPBA|Kind=1|AlternatePart= 
-Variation13=Designator=R62A|UniqueId=\NYZVTTPJ\XSQKKGUI|Kind=1|AlternatePart= 
-Variation14=Designator=L8B|UniqueId=\BDRFWSYD\WBLVOJRP|Kind=1|AlternatePart= 
-Variation15=Designator=L9A|UniqueId=\NYZVTTPJ\ECXSPBAH|Kind=1|AlternatePart= 
-Variation16=Designator=L9B|UniqueId=\BDRFWSYD\ECXSPBAH|Kind=1|AlternatePart= 
-Variation17=Designator=R7B|UniqueId=\BDRFWSYD\KIOBNMVA|Kind=1|AlternatePart= 
-Variation18=Designator=R11A|UniqueId=\NYZVTTPJ\WJGVZEXF|Kind=1|AlternatePart= 
-Variation19=Designator=R62B|UniqueId=\BDRFWSYD\XSQKKGUI|Kind=1|AlternatePart= 
-Variation20=Designator=R63A|UniqueId=\NYZVTTPJ\QNGSSIJL|Kind=1|AlternatePart= 
-Variation21=Designator=C28A|UniqueId=\NYZVTTPJ\CRJHIKNY|Kind=1|AlternatePart= 
-Variation22=Designator=C27A|UniqueId=\NYZVTTPJ\YJOPNHTH|Kind=1|AlternatePart= 
-Variation23=Designator=C31A|UniqueId=\NYZVTTPJ\AFCSWPCJ|Kind=1|AlternatePart= 
-Variation24=Designator=R63B|UniqueId=\BDRFWSYD\QNGSSIJL|Kind=1|AlternatePart= 
-Variation25=Designator=C31B|UniqueId=\BDRFWSYD\AFCSWPCJ|Kind=1|AlternatePart= 
-Variation26=Designator=C28B|UniqueId=\BDRFWSYD\CRJHIKNY|Kind=1|AlternatePart= 
-Variation27=Designator=C27B|UniqueId=\BDRFWSYD\YJOPNHTH|Kind=1|AlternatePart= 
+VariationCount=23
+Variation1=Designator=L8A|UniqueId=\NYZVTTPJ\WBLVOJRP|Kind=1|AlternatePart= 
+Variation2=Designator=R9A|UniqueId=\NYZVTTPJ\KOAAEPBA|Kind=1|AlternatePart= 
+Variation3=Designator=R9B|UniqueId=\BDRFWSYD\KOAAEPBA|Kind=1|AlternatePart= 
+Variation4=Designator=R62A|UniqueId=\NYZVTTPJ\XSQKKGUI|Kind=1|AlternatePart= 
+Variation5=Designator=L8B|UniqueId=\BDRFWSYD\WBLVOJRP|Kind=1|AlternatePart= 
+Variation6=Designator=L9A|UniqueId=\NYZVTTPJ\ECXSPBAH|Kind=1|AlternatePart= 
+Variation7=Designator=L9B|UniqueId=\BDRFWSYD\ECXSPBAH|Kind=1|AlternatePart= 
+Variation8=Designator=R62B|UniqueId=\BDRFWSYD\XSQKKGUI|Kind=1|AlternatePart= 
+Variation9=Designator=R63A|UniqueId=\NYZVTTPJ\QNGSSIJL|Kind=1|AlternatePart= 
+Variation10=Designator=C28A|UniqueId=\NYZVTTPJ\CRJHIKNY|Kind=1|AlternatePart= 
+Variation11=Designator=C27A|UniqueId=\NYZVTTPJ\YJOPNHTH|Kind=1|AlternatePart= 
+Variation12=Designator=C31A|UniqueId=\NYZVTTPJ\AFCSWPCJ|Kind=1|AlternatePart= 
+Variation13=Designator=R63B|UniqueId=\BDRFWSYD\QNGSSIJL|Kind=1|AlternatePart= 
+Variation14=Designator=C31B|UniqueId=\BDRFWSYD\AFCSWPCJ|Kind=1|AlternatePart= 
+Variation15=Designator=C28B|UniqueId=\BDRFWSYD\CRJHIKNY|Kind=1|AlternatePart= 
+Variation16=Designator=C27B|UniqueId=\BDRFWSYD\YJOPNHTH|Kind=1|AlternatePart= 
+Variation17=Designator=C83A|UniqueId=\NYZVTTPJ\VLGCMYDK|Kind=1|AlternatePart= 
+Variation18=Designator=C83B|UniqueId=\BDRFWSYD\VLGCMYDK|Kind=1|AlternatePart= 
+Variation19=Designator=C32A|UniqueId=\NYZVTTPJ\CVKNQUVH|Kind=1|AlternatePart= 
+Variation20=Designator=C32B|UniqueId=\BDRFWSYD\CVKNQUVH|Kind=1|AlternatePart= 
+Variation21=Designator=C6|UniqueId=\QYXJBBTI\ORZDNRJN|Kind=1|AlternatePart= 
+Variation22=Designator=C60A|UniqueId=\NYZVTTPJ\HSGHVKZE|Kind=1|AlternatePart= 
+Variation23=Designator=C60B|UniqueId=\BDRFWSYD\HSGHVKZE|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for stabilizer_current_sense\Design Rule Check - Stabilizer_Pounder.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjAddress1
@@ -516,6 +550,12 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -932,6 +972,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=AnsysEDB
+OutputName12=Ansys EDB
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1062,6 +1107,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1130,6 +1177,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1138,33 +1187,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=0
 Type15=0
 Type16=0
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -1175,15 +1224,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -1191,10 +1240,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=2
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -1232,7 +1281,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -1277,6 +1326,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1329,6 +1379,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1347,6 +1398,7 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
