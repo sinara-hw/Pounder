@@ -28,8 +28,8 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for stabilizer_current_sense
-LogFolderPath=
+OutputPath=Project Logs for Pounder
+LogFolderPath=Project Logs for Pounder
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 
@@ -280,7 +280,7 @@ UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=23
+VariationCount=31
 Variation1=Designator=L8A|UniqueId=\NYZVTTPJ\WBLVOJRP|Kind=1|AlternatePart= 
 Variation2=Designator=R9A|UniqueId=\NYZVTTPJ\KOAAEPBA|Kind=1|AlternatePart= 
 Variation3=Designator=R9B|UniqueId=\BDRFWSYD\KOAAEPBA|Kind=1|AlternatePart= 
@@ -301,32 +301,36 @@ Variation17=Designator=C83A|UniqueId=\NYZVTTPJ\VLGCMYDK|Kind=1|AlternatePart=
 Variation18=Designator=C83B|UniqueId=\BDRFWSYD\VLGCMYDK|Kind=1|AlternatePart= 
 Variation19=Designator=C32A|UniqueId=\NYZVTTPJ\CVKNQUVH|Kind=1|AlternatePart= 
 Variation20=Designator=C32B|UniqueId=\BDRFWSYD\CVKNQUVH|Kind=1|AlternatePart= 
-Variation21=Designator=C6|UniqueId=\QYXJBBTI\ORZDNRJN|Kind=1|AlternatePart= 
-Variation22=Designator=C60A|UniqueId=\NYZVTTPJ\HSGHVKZE|Kind=1|AlternatePart= 
-Variation23=Designator=C60B|UniqueId=\BDRFWSYD\HSGHVKZE|Kind=1|AlternatePart= 
+Variation21=Designator=C6|UniqueId=\QYXJBBTI\ORZDNRJN|Kind=0|AlternatePart= 
+Variation22=Designator=OSC2|UniqueId=\QYXJBBTI\TQMCPRDF|Kind=1|AlternatePart= 
+Variation23=Designator=R69|UniqueId=\CJTVDBQG|Kind=1|AlternatePart= 
+Variation24=Designator=R67|UniqueId=\TQNQSXAT|Kind=1|AlternatePart= 
+Variation25=Designator=R68|UniqueId=\NFILDSOY|Kind=1|AlternatePart= 
+Variation26=Designator=J12|UniqueId=\QYXJBBTI\DIVQPVPQ|Kind=1|AlternatePart= 
+Variation27=Designator=J12|UniqueId=\QYXJBBTI\WHUMQUUV|Kind=1|AlternatePart= 
+Variation28=Designator=R73|UniqueId=\QYXJBBTI\MTOZKCTE|Kind=1|AlternatePart= 
+Variation29=Designator=C44|UniqueId=\QYXJBBTI\ULIRBYAG|Kind=1|AlternatePart= 
+Variation30=Designator=R6A|UniqueId=\UKNYHRUO\VEXAMCSV|Kind=1|AlternatePart= 
+Variation31=Designator=R19A|UniqueId=\UKNYHRUO\XBADCAPH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for stabilizer_current_sense\Design Rule Check - Stabilizer_Pounder.html
+DocumentPath=Project Logs for Pounder\Design Rule Check - Stabilizer_Pounder.html
 DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjAddress1
-Value=Department of Physics
+Value=WUT
 
 [Parameter2]
-Name=ProjAddress2
-Value=University of Oxford
+Name=ProjAddress3
+Value=PL
 
 [Parameter3]
-Name=ProjAddress3
-Value=UK
+Name=ProjOrganization
+Value=ISE
 
 [Parameter4]
-Name=ProjOrganization
-Value=Ion Trapping Group
-
-[Parameter5]
 Name=ProjRevision
 Value=1.0
 
@@ -341,7 +345,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for stabilizer_current_sense
+OutputDir=Project Logs for Pounder
 
 [OutputGroup1]
 Name=Netlist Outputs
