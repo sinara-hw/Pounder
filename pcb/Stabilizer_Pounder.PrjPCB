@@ -280,7 +280,7 @@ UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=31
+VariationCount=34
 Variation1=Designator=L8A|UniqueId=\NYZVTTPJ\WBLVOJRP|Kind=1|AlternatePart= 
 Variation2=Designator=R9A|UniqueId=\NYZVTTPJ\KOAAEPBA|Kind=1|AlternatePart= 
 Variation3=Designator=R9B|UniqueId=\BDRFWSYD\KOAAEPBA|Kind=1|AlternatePart= 
@@ -301,17 +301,20 @@ Variation17=Designator=C83A|UniqueId=\NYZVTTPJ\VLGCMYDK|Kind=1|AlternatePart=
 Variation18=Designator=C83B|UniqueId=\BDRFWSYD\VLGCMYDK|Kind=1|AlternatePart= 
 Variation19=Designator=C32A|UniqueId=\NYZVTTPJ\CVKNQUVH|Kind=1|AlternatePart= 
 Variation20=Designator=C32B|UniqueId=\BDRFWSYD\CVKNQUVH|Kind=1|AlternatePart= 
-Variation21=Designator=C6|UniqueId=\QYXJBBTI\ORZDNRJN|Kind=0|AlternatePart= 
-Variation22=Designator=OSC2|UniqueId=\QYXJBBTI\TQMCPRDF|Kind=1|AlternatePart= 
-Variation23=Designator=R69|UniqueId=\CJTVDBQG|Kind=1|AlternatePart= 
-Variation24=Designator=R67|UniqueId=\TQNQSXAT|Kind=1|AlternatePart= 
-Variation25=Designator=R68|UniqueId=\NFILDSOY|Kind=1|AlternatePart= 
-Variation26=Designator=J12|UniqueId=\QYXJBBTI\DIVQPVPQ|Kind=1|AlternatePart= 
-Variation27=Designator=J12|UniqueId=\QYXJBBTI\WHUMQUUV|Kind=1|AlternatePart= 
-Variation28=Designator=R73|UniqueId=\QYXJBBTI\MTOZKCTE|Kind=1|AlternatePart= 
-Variation29=Designator=C44|UniqueId=\QYXJBBTI\ULIRBYAG|Kind=1|AlternatePart= 
-Variation30=Designator=R6A|UniqueId=\UKNYHRUO\VEXAMCSV|Kind=1|AlternatePart= 
-Variation31=Designator=R19A|UniqueId=\UKNYHRUO\XBADCAPH|Kind=1|AlternatePart= 
+Variation21=Designator=OSC2|UniqueId=\QYXJBBTI\TQMCPRDF|Kind=1|AlternatePart= 
+Variation22=Designator=R69|UniqueId=\CJTVDBQG|Kind=1|AlternatePart= 
+Variation23=Designator=R67|UniqueId=\TQNQSXAT|Kind=1|AlternatePart= 
+Variation24=Designator=R68|UniqueId=\NFILDSOY|Kind=1|AlternatePart= 
+Variation25=Designator=J13|UniqueId=\QYXJBBTI\DIVQPVPQ|Kind=1|AlternatePart= 
+Variation26=Designator=J12|UniqueId=\QYXJBBTI\WHUMQUUV|Kind=1|AlternatePart= 
+Variation27=Designator=R73|UniqueId=\QYXJBBTI\MTOZKCTE|Kind=1|AlternatePart= 
+Variation28=Designator=C44|UniqueId=\QYXJBBTI\ULIRBYAG|Kind=1|AlternatePart= 
+Variation29=Designator=R6A|UniqueId=\UKNYHRUO\VEXAMCSV|Kind=1|AlternatePart= 
+Variation30=Designator=R19A|UniqueId=\UKNYHRUO\XBADCAPH|Kind=1|AlternatePart= 
+Variation31=Designator=R6B|UniqueId=\NGKZQQRN\VEXAMCSV|Kind=1|AlternatePart= 
+Variation32=Designator=R19B|UniqueId=\NGKZQQRN\XBADCAPH|Kind=1|AlternatePart= 
+Variation33=Designator=R86A|UniqueId=\UKNYHRUO\IUESECSS|Kind=1|AlternatePart= 
+Variation34=Designator=R86B|UniqueId=\NGKZQQRN\IUESECSS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -456,7 +459,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Brother MFC-L2710DW series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -976,11 +979,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=AnsysEDB
-OutputName12=Ansys EDB
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
