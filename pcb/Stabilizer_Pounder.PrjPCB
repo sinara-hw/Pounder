@@ -282,7 +282,7 @@ UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=36
+VariationCount=39
 Variation1=Designator=L8A|UniqueId=\NYZVTTPJ\WBLVOJRP|Kind=1|AlternatePart= 
 Variation2=Designator=R9A|UniqueId=\NYZVTTPJ\KOAAEPBA|Kind=1|AlternatePart= 
 Variation3=Designator=R9B|UniqueId=\BDRFWSYD\KOAAEPBA|Kind=1|AlternatePart= 
@@ -315,14 +315,29 @@ Variation29=Designator=R6A|UniqueId=\UKNYHRUO\VEXAMCSV|Kind=1|AlternatePart=
 Variation30=Designator=R19A|UniqueId=\UKNYHRUO\XBADCAPH|Kind=1|AlternatePart= 
 Variation31=Designator=R6B|UniqueId=\NGKZQQRN\VEXAMCSV|Kind=1|AlternatePart= 
 Variation32=Designator=R19B|UniqueId=\NGKZQQRN\XBADCAPH|Kind=1|AlternatePart= 
-Variation33=Designator=R86A|UniqueId=\UKNYHRUO\IUESECSS|Kind=1|AlternatePart= 
-Variation34=Designator=R86B|UniqueId=\NGKZQQRN\IUESECSS|Kind=1|AlternatePart= 
-Variation35=Designator=J11|UniqueId=\QYXJBBTI\XLOMMTNF|Kind=1|AlternatePart= 
-Variation36=Designator=C66|UniqueId=\QYXJBBTI\XQMCVVLG|Kind=1|AlternatePart= 
+Variation33=Designator=J11|UniqueId=\QYXJBBTI\XLOMMTNF|Kind=1|AlternatePart= 
+Variation34=Designator=C66|UniqueId=\QYXJBBTI\XQMCVVLG|Kind=1|AlternatePart= 
+Variation35=Designator=IC11A|UniqueId=\UKNYHRUO\OGBHSYUH|Kind=1|AlternatePart= 
+Variation36=Designator=L15A|UniqueId=\UKNYHRUO\VFDDPUNM|Kind=0|AlternatePart= 
+Variation37=Designator=IC11B|UniqueId=\NGKZQQRN\OGBHSYUH|Kind=1|AlternatePart= 
+Variation38=Designator=L15B|UniqueId=\NGKZQQRN\VFDDPUNM|Kind=1|AlternatePart= 
+Variation39=Designator=R85A|UniqueId=\UKNYHRUO\TRQBLDES|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Logs for Pounder\Design Rule Check - Stabilizer_Pounder.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Pounder\Panel\Panel_Pounder.brd
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Pounder\Panel\Panel_Pounder.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Pounder\Panel\Panel_Pounder.step
 DItemRevisionGUID=
 
 [Parameter1]
@@ -463,7 +478,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother DCP-L2540DN series Printer
+TargetPrinter=Brother DCP-L2540DN series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -911,6 +926,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=AnsysEDB
+OutputName12=Ansys EDB
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
