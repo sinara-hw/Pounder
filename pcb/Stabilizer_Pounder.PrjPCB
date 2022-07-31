@@ -292,13 +292,66 @@ UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
-Variation1=Designator=R8A|UniqueId=\NYZVTTPJ\FWBRXDOL|Kind=0|AlternatePart= 
-Variation2=Designator=R22A|UniqueId=\NYZVTTPJ\XVAAAXIA|Kind=0|AlternatePart= 
-Variation3=Designator=IC19|UniqueId=\UCPOGPIB|Kind=1|AlternatePart= 
-Variation4=Designator=IC17A|UniqueId=\NYZVTTPJ\PRXGOCTE|Kind=0|AlternatePart= 
-Variation5=Designator=C126A|UniqueId=\NYZVTTPJ\ULIYLAZB|Kind=0|AlternatePart= 
-Variation6=Designator=C134A|UniqueId=\NYZVTTPJ\NEZMVOKJ|Kind=0|AlternatePart= 
+VariationCount=59
+Variation1=Designator=IC19|UniqueId=\UCPOGPIB|Kind=1|AlternatePart= 
+Variation2=Designator=C141|UniqueId=\QYXJBBTI\XYMZQBHZ|Kind=1|AlternatePart= 
+Variation3=Designator=C142|UniqueId=\QYXJBBTI\PXZHIIHN|Kind=1|AlternatePart= 
+Variation4=Designator=C143|UniqueId=\QYXJBBTI\GOMCFWIL|Kind=1|AlternatePart= 
+Variation5=Designator=C144|UniqueId=\QYXJBBTI\PRKPSLYG|Kind=1|AlternatePart= 
+Variation6=Designator=R86A|UniqueId=\UKNYHRUO\IUESECSS|Kind=1|AlternatePart= 
+Variation7=Designator=R86B|UniqueId=\NGKZQQRN\IUESECSS|Kind=1|AlternatePart= 
+Variation8=Designator=R6A|UniqueId=\UKNYHRUO\VEXAMCSV|Kind=1|AlternatePart= 
+Variation9=Designator=R19A|UniqueId=\UKNYHRUO\XBADCAPH|Kind=1|AlternatePart= 
+Variation10=Designator=R6B|UniqueId=\NGKZQQRN\VEXAMCSV|Kind=1|AlternatePart= 
+Variation11=Designator=R19B|UniqueId=\NGKZQQRN\XBADCAPH|Kind=1|AlternatePart= 
+Variation12=Designator=R69|UniqueId=\CJTVDBQG|Kind=1|AlternatePart= 
+Variation13=Designator=R68|UniqueId=\NFILDSOY|Kind=1|AlternatePart= 
+Variation14=Designator=R67|UniqueId=\TQNQSXAT|Kind=1|AlternatePart= 
+Variation15=Designator=R73|UniqueId=\QYXJBBTI\MTOZKCTE|Kind=1|AlternatePart= 
+Variation16=Designator=OSC2|UniqueId=\QYXJBBTI\TQMCPRDF|Kind=1|AlternatePart= 
+Variation17=Designator=C66|UniqueId=\QYXJBBTI\XQMCVVLG|Kind=1|AlternatePart= 
+Variation18=Designator=J11|UniqueId=\QYXJBBTI\XLOMMTNF|Kind=1|AlternatePart= 
+Variation19=Designator=J12|UniqueId=\QYXJBBTI\WHUMQUUV|Kind=1|AlternatePart= 
+Variation20=Designator=J13|UniqueId=\QYXJBBTI\DIVQPVPQ|Kind=1|AlternatePart= 
+Variation21=Designator=C44|UniqueId=\QYXJBBTI\ULIRBYAG|Kind=1|AlternatePart= 
+Variation22=Designator=IC17A|UniqueId=\NYZVTTPJ\PRXGOCTE|Kind=1|AlternatePart= 
+Variation23=Designator=C126A|UniqueId=\NYZVTTPJ\ULIYLAZB|Kind=1|AlternatePart= 
+Variation24=Designator=C134A|UniqueId=\NYZVTTPJ\NEZMVOKJ|Kind=1|AlternatePart= 
+Variation25=Designator=L16A|UniqueId=\NYZVTTPJ\ZYVAMMGI|Kind=1|AlternatePart= 
+Variation26=Designator=L17A|UniqueId=\NYZVTTPJ\VMLYHRZQ|Kind=1|AlternatePart= 
+Variation27=Designator=L18A|UniqueId=\NYZVTTPJ\LBYTKULQ|Kind=1|AlternatePart= 
+Variation28=Designator=C120A|UniqueId=\NYZVTTPJ\UVHCCZPZ|Kind=1|AlternatePart= 
+Variation29=Designator=C121A|UniqueId=\NYZVTTPJ\OCJMSOGP|Kind=1|AlternatePart= 
+Variation30=Designator=C124A|UniqueId=\NYZVTTPJ\XWGQINIR|Kind=1|AlternatePart= 
+Variation31=Designator=C127A|UniqueId=\NYZVTTPJ\LXVETAEM|Kind=1|AlternatePart= 
+Variation32=Designator=C128A|UniqueId=\NYZVTTPJ\VSEJTJOL|Kind=1|AlternatePart= 
+Variation33=Designator=C129A|UniqueId=\NYZVTTPJ\CGQSNZFL|Kind=1|AlternatePart= 
+Variation34=Designator=L19A|UniqueId=\NYZVTTPJ\INSZZRTD|Kind=1|AlternatePart= 
+Variation35=Designator=L20A|UniqueId=\NYZVTTPJ\TINNWHWN|Kind=1|AlternatePart= 
+Variation36=Designator=L30A|UniqueId=\NYZVTTPJ\MDMEQZOD|Kind=1|AlternatePart= 
+Variation37=Designator=C135A|UniqueId=\NYZVTTPJ\RQATXDWC|Kind=1|AlternatePart= 
+Variation38=Designator=C136A|UniqueId=\NYZVTTPJ\FFNAJDPM|Kind=1|AlternatePart= 
+Variation39=Designator=C137A|UniqueId=\NYZVTTPJ\WQSWKQOV|Kind=1|AlternatePart= 
+Variation40=Designator=C120B|UniqueId=\BDRFWSYD\UVHCCZPZ|Kind=1|AlternatePart= 
+Variation41=Designator=C121B|UniqueId=\BDRFWSYD\OCJMSOGP|Kind=1|AlternatePart= 
+Variation42=Designator=C124B|UniqueId=\BDRFWSYD\XWGQINIR|Kind=1|AlternatePart= 
+Variation43=Designator=C126B|UniqueId=\BDRFWSYD\ULIYLAZB|Kind=1|AlternatePart= 
+Variation44=Designator=C127B|UniqueId=\BDRFWSYD\LXVETAEM|Kind=1|AlternatePart= 
+Variation45=Designator=C128B|UniqueId=\BDRFWSYD\VSEJTJOL|Kind=1|AlternatePart= 
+Variation46=Designator=C129B|UniqueId=\BDRFWSYD\CGQSNZFL|Kind=1|AlternatePart= 
+Variation47=Designator=C134B|UniqueId=\BDRFWSYD\NEZMVOKJ|Kind=1|AlternatePart= 
+Variation48=Designator=C135B|UniqueId=\BDRFWSYD\RQATXDWC|Kind=1|AlternatePart= 
+Variation49=Designator=C136B|UniqueId=\BDRFWSYD\FFNAJDPM|Kind=1|AlternatePart= 
+Variation50=Designator=C137B|UniqueId=\BDRFWSYD\WQSWKQOV|Kind=1|AlternatePart= 
+Variation51=Designator=IC17B|UniqueId=\BDRFWSYD\PRXGOCTE|Kind=1|AlternatePart= 
+Variation52=Designator=L16B|UniqueId=\BDRFWSYD\ZYVAMMGI|Kind=1|AlternatePart= 
+Variation53=Designator=L20B|UniqueId=\BDRFWSYD\TINNWHWN|Kind=1|AlternatePart= 
+Variation54=Designator=L19B|UniqueId=\BDRFWSYD\INSZZRTD|Kind=1|AlternatePart= 
+Variation55=Designator=L17B|UniqueId=\BDRFWSYD\VMLYHRZQ|Kind=1|AlternatePart= 
+Variation56=Designator=L18B|UniqueId=\BDRFWSYD\LBYTKULQ|Kind=1|AlternatePart= 
+Variation57=Designator=L30B|UniqueId=\BDRFWSYD\MDMEQZOD|Kind=1|AlternatePart= 
+Variation58=Designator=C130A|UniqueId=\NYZVTTPJ\PQBIIPWQ|Kind=1|AlternatePart= 
+Variation59=Designator=C130B|UniqueId=\BDRFWSYD\PQBIIPWQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -476,7 +529,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
@@ -522,7 +575,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType5=PCBDrawing
@@ -534,7 +587,7 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType6=PCBLIB Print
 OutputName6=PCBLIB Prints
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType7=PDF3D
@@ -569,6 +622,18 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -606,13 +671,13 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=CompositeDrill
 OutputName2=Composite Drill Drawing
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType3=Drill
 OutputName3=Drill Drawing/Guides
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType4=Final
@@ -629,17 +694,17 @@ OutputDefault5=0
 OutputType6=Gerber X2
 OutputName6=Gerber X2 Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 OutputType7=IPC2581
 OutputName7=IPC-2581 Files
 OutputDocumentPath7=
-OutputVariantName7=
+OutputVariantName7=[No Variations]
 OutputDefault7=0
 OutputType8=Mask
 OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType9=NC Drill
@@ -655,7 +720,7 @@ OutputDefault10=0
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Test Points
@@ -1278,13 +1343,13 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
 Type126=1
+Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
