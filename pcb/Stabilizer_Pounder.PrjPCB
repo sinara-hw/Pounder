@@ -24,16 +24,26 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
+IsVirtualBomDocumentRemoved=0
 OutputPath=Project Logs for Pounder
 LogFolderPath=Project Logs for Pounder
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=default
 
 [Preferences]
 PrefsVaultGUID=
@@ -282,46 +292,13 @@ UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=39
-Variation1=Designator=L8A|UniqueId=\NYZVTTPJ\WBLVOJRP|Kind=1|AlternatePart= 
-Variation2=Designator=R9A|UniqueId=\NYZVTTPJ\KOAAEPBA|Kind=1|AlternatePart= 
-Variation3=Designator=R9B|UniqueId=\BDRFWSYD\KOAAEPBA|Kind=1|AlternatePart= 
-Variation4=Designator=R62A|UniqueId=\NYZVTTPJ\XSQKKGUI|Kind=1|AlternatePart= 
-Variation5=Designator=L8B|UniqueId=\BDRFWSYD\WBLVOJRP|Kind=1|AlternatePart= 
-Variation6=Designator=L9A|UniqueId=\NYZVTTPJ\ECXSPBAH|Kind=1|AlternatePart= 
-Variation7=Designator=L9B|UniqueId=\BDRFWSYD\ECXSPBAH|Kind=1|AlternatePart= 
-Variation8=Designator=R62B|UniqueId=\BDRFWSYD\XSQKKGUI|Kind=1|AlternatePart= 
-Variation9=Designator=R63A|UniqueId=\NYZVTTPJ\QNGSSIJL|Kind=1|AlternatePart= 
-Variation10=Designator=C28A|UniqueId=\NYZVTTPJ\CRJHIKNY|Kind=1|AlternatePart= 
-Variation11=Designator=C27A|UniqueId=\NYZVTTPJ\YJOPNHTH|Kind=1|AlternatePart= 
-Variation12=Designator=C31A|UniqueId=\NYZVTTPJ\AFCSWPCJ|Kind=1|AlternatePart= 
-Variation13=Designator=R63B|UniqueId=\BDRFWSYD\QNGSSIJL|Kind=1|AlternatePart= 
-Variation14=Designator=C31B|UniqueId=\BDRFWSYD\AFCSWPCJ|Kind=1|AlternatePart= 
-Variation15=Designator=C28B|UniqueId=\BDRFWSYD\CRJHIKNY|Kind=1|AlternatePart= 
-Variation16=Designator=C27B|UniqueId=\BDRFWSYD\YJOPNHTH|Kind=1|AlternatePart= 
-Variation17=Designator=C83A|UniqueId=\NYZVTTPJ\VLGCMYDK|Kind=1|AlternatePart= 
-Variation18=Designator=C83B|UniqueId=\BDRFWSYD\VLGCMYDK|Kind=1|AlternatePart= 
-Variation19=Designator=C32A|UniqueId=\NYZVTTPJ\CVKNQUVH|Kind=1|AlternatePart= 
-Variation20=Designator=C32B|UniqueId=\BDRFWSYD\CVKNQUVH|Kind=1|AlternatePart= 
-Variation21=Designator=OSC2|UniqueId=\QYXJBBTI\TQMCPRDF|Kind=1|AlternatePart= 
-Variation22=Designator=R69|UniqueId=\CJTVDBQG|Kind=1|AlternatePart= 
-Variation23=Designator=R67|UniqueId=\TQNQSXAT|Kind=1|AlternatePart= 
-Variation24=Designator=R68|UniqueId=\NFILDSOY|Kind=1|AlternatePart= 
-Variation25=Designator=J13|UniqueId=\QYXJBBTI\DIVQPVPQ|Kind=1|AlternatePart= 
-Variation26=Designator=J12|UniqueId=\QYXJBBTI\WHUMQUUV|Kind=1|AlternatePart= 
-Variation27=Designator=R73|UniqueId=\QYXJBBTI\MTOZKCTE|Kind=1|AlternatePart= 
-Variation28=Designator=C44|UniqueId=\QYXJBBTI\ULIRBYAG|Kind=1|AlternatePart= 
-Variation29=Designator=R6A|UniqueId=\UKNYHRUO\VEXAMCSV|Kind=1|AlternatePart= 
-Variation30=Designator=R19A|UniqueId=\UKNYHRUO\XBADCAPH|Kind=1|AlternatePart= 
-Variation31=Designator=R6B|UniqueId=\NGKZQQRN\VEXAMCSV|Kind=1|AlternatePart= 
-Variation32=Designator=R19B|UniqueId=\NGKZQQRN\XBADCAPH|Kind=1|AlternatePart= 
-Variation33=Designator=J11|UniqueId=\QYXJBBTI\XLOMMTNF|Kind=1|AlternatePart= 
-Variation34=Designator=C66|UniqueId=\QYXJBBTI\XQMCVVLG|Kind=1|AlternatePart= 
-Variation35=Designator=IC11A|UniqueId=\UKNYHRUO\OGBHSYUH|Kind=1|AlternatePart= 
-Variation36=Designator=L15A|UniqueId=\UKNYHRUO\VFDDPUNM|Kind=0|AlternatePart= 
-Variation37=Designator=IC11B|UniqueId=\NGKZQQRN\OGBHSYUH|Kind=1|AlternatePart= 
-Variation38=Designator=L15B|UniqueId=\NGKZQQRN\VFDDPUNM|Kind=1|AlternatePart= 
-Variation39=Designator=R85A|UniqueId=\UKNYHRUO\TRQBLDES|Kind=1|AlternatePart= 
+VariationCount=6
+Variation1=Designator=R8A|UniqueId=\NYZVTTPJ\FWBRXDOL|Kind=0|AlternatePart= 
+Variation2=Designator=R22A|UniqueId=\NYZVTTPJ\XVAAAXIA|Kind=0|AlternatePart= 
+Variation3=Designator=IC19|UniqueId=\UCPOGPIB|Kind=1|AlternatePart= 
+Variation4=Designator=IC17A|UniqueId=\NYZVTTPJ\PRXGOCTE|Kind=0|AlternatePart= 
+Variation5=Designator=C126A|UniqueId=\NYZVTTPJ\ULIYLAZB|Kind=0|AlternatePart= 
+Variation6=Designator=C134A|UniqueId=\NYZVTTPJ\NEZMVOKJ|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -474,12 +451,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Brother DCP-L2540DN series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -713,6 +700,18 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -926,11 +925,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=AnsysEDB
-OutputName12=Ansys EDB
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1260,6 +1284,7 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
