@@ -359,6 +359,18 @@ ParamVariationCount=0
 DocumentPath=Project Logs for Pounder\Design Rule Check - Stabilizer_Pounder.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Pounder\Panel\Panel_Pounder.brd
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Pounder\Panel\Panel_Pounder.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Pounder\Panel\Panel_Pounder.step
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjAddress1
 Value=WUT
@@ -979,6 +991,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
